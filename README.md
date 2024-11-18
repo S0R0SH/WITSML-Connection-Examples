@@ -1,5 +1,6 @@
 # **WITSML-Connection-Examples**
-
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/s0r0sh/WITSML-Connection-Examples" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star s0r0sh/WITSML-Connection-Examples on GitHub">Star</a>
 
